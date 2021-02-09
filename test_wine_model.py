@@ -1,3 +1,4 @@
+import pandas as pd
 from wine_model import make_df
 
 def test_something():
